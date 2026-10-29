@@ -307,6 +307,18 @@ export const funding = [];
 
 export const awards = [];
 
+
+// ============================================================
+// 12. ACADEMIC SERVICE / 学术任职
+// ============================================================
+
+export const academicService = [
+  {
+    org: "Peer Reviewer / 期刊审稿人",
+    desc: "Discover Applied Sciences; Journal of Nonlinear Mathematical Physics",
+  },
+];
+
 // ============================================================
 // 12. TEACHING
 // ============================================================
