@@ -46,6 +46,10 @@ export const profile = {
       label: "ORCID",
       href: "https://orcid.org/0009-0008-0843-3552",
     },
+    {
+      label: "Email",
+      href: "harry919@126.com",
+    },
   ],
 };
 
