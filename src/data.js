@@ -23,7 +23,7 @@ export const profile = {
 
   role: [
     "Lecturer in Mathematical Biology, Yunnan Minzu University",
-    "云南民族大学讲师（生物数学方向）",
+    "讲师 云南民族大学",
   ],
 
   location: "Kunming, Yunnan, China / 中国云南省昆明市",
@@ -37,7 +37,7 @@ export const profile = {
     },
     {
       label: "Google Scholar",
-      href: "https://scholar.google.com.hk/citations?user=V-4PPD0AAAAJ&hl=en",
+      href: "https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AEk_c1vWRl52X6-79DDA7TMYoOYYzrqPY39ikv9SZ8H-szRcak0nFgI54hMd9W3JLt5jjPT9RX2dvBudZQrEk4iQ5V4&user=lQPHsuYAAAAJ",
     },
     {
       label: "ORCID",
@@ -94,7 +94,6 @@ export const education = [
     org: "Universiti Malaya / 马来亚大学",
     role: "Ph.D. in Applied Mathematics / 应用数学博士",
     date: "Oct 2022 – Jul 2026",
-    desc: "Thesis: Fractional-Order Epidemic Modeling of COVID-19 in Malaysia.<br><br>博士论文：《马来西亚 COVID-19 的分数阶流行病建模》。",
     url: "https://www.um.edu.my/",
   },
   {
@@ -338,12 +337,7 @@ export const awards = [];
 
 export const teaching = [
   {
-    org: "Linear Algebra and Numerical Methods / 线性代数与数值计算方法",
-
-    desc:
-      "Undergraduate mathematics teaching and course-material development.<br><br>本科数学课程教学与课程材料建设。",
-
-    role: "Lecturer, Yunnan Minzu University / 云南民族大学讲师",
+    org: "Linear Algebra/ 线性代数",
 
     date: "2026–Present",
   },
