@@ -47,9 +47,7 @@ export const profile = {
       href: "https://orcid.org/0009-0008-0843-3552",
     },
     {
-      label: "CV (PDF)",
-      href: CV_URL,
-      newTab: true,
+      label: "Email:harry919@126.com",
     },
   ],
 };
@@ -113,19 +111,19 @@ export const supervisors = [
   {
     org: "Dr. Elayaraja Aruchunan",
     role: "Principal Supervisor / 主导师",
-    desc: "Doctoral supervisor at Universiti Malaya.<br><br>马来亚大学博士研究主导师。",
+    desc: "Doctoral supervisor at Universiti Malaya. 马来亚大学博士研究主导师。",
     url: "https://umexpert.um.edu.my/elayarajah.html",
   },
   {
     org: "Dr. Nur Anisah Mohamed",
     role: "Co-supervisor / 联合导师",
-    desc: "Doctoral supervisor at Universiti Malaya.<br><br>马来亚大学博士研究导师。",
+    desc: "Doctoral supervisor at Universiti Malaya. 马来亚大学博士研究导师。",
     url: "https://umexpert.um.edu.my/nuranisah_mohamed.html",
   },
   {
     org: "Dr. Muhamad Hifzhudin Noor Aziz",
     role: "Co-supervisor / 联合导师",
-    desc: "Doctoral supervisor at Universiti Malaya.<br><br>马来亚大学博士研究导师。",
+    desc: "Doctoral supervisor at Universiti Malaya. 马来亚大学博士研究导师。",
     url: "https://umexpert.um.edu.my/hifz_din.html",
   },
 ];
