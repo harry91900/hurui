@@ -308,10 +308,6 @@ export const funding = [];
 export const awards = [];
 
 
-// ============================================================
-// 12. ACADEMIC SERVICE / 学术任职
-// ============================================================
-
 export const academicService = [
   {
     org: "Peer Reviewer / 期刊审稿人",
