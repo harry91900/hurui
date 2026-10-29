@@ -74,18 +74,7 @@ export const about = [
 // ============================================================
 
 export const news = [
-  {
-    date: "2026",
-    text: `Joined Yunnan Minzu University as a Lecturer in Mathematical Biology.<br><br>入职云南民族大学，担任生物数学方向讲师。`,
-  },
-  {
-    date: "Jul 2026",
-    text: `Completed a Ph.D. in Applied Mathematics at Universiti Malaya, Malaysia.<br><br>获得马来亚大学应用数学博士学位。`,
-  },
-  {
-    date: "2025",
-    text: `Published research on fractional-order epidemic modelling in Ain Shams Engineering Journal, Scientific Reports, and AIMS Mathematics.<br><br>在 Ain Shams Engineering Journal、Scientific Reports 和 AIMS Mathematics 发表分数阶流行病建模相关研究成果。`,
-  },
+
 ];
 
 // ============================================================
@@ -96,7 +85,7 @@ export const education = [
   {
     org: "Universiti Malaya / 马来亚大学",
     role: "Ph.D. in Applied Mathematics / 应用数学博士",
-    date: "Oct 2022 – Jul 2026",
+    date: "Oct 2022 – Jun 2026",
     logo: UM,
     url: "https://www.um.edu.my/",
   },
@@ -252,27 +241,7 @@ export const workingPapers = [];
 // ============================================================
 
 export const experience = [
-  {
-    org: "Fractional-Order Epidemic Modelling and Dynamical Analysis / 分数阶流行病建模与动力学分析",
 
-    desc:
-      "Research on COVID-19 transmission in Malaysia, covering fractional-order SEIHRM models, media effects, time delays, testing, protective awareness, stability analysis, Hopf bifurcation, parameter fitting, and optimal control.<br><br>围绕马来西亚 COVID-19 传播过程开展研究，涉及分数阶 SEIHRM 模型、媒体影响、时滞、检测、个体防护意识、稳定性分析、Hopf 分岔、参数拟合与最优控制。",
-
-    role: "Doctoral Research / 博士研究",
-
-    date: "Oct 2022 – Jul 2026",
-  },
-
-  {
-    org: "PINN-Based Data-Driven Epidemic Modelling / 基于 PINNs 的数据驱动流行病建模",
-
-    desc:
-      "Combines physics-informed neural networks with an SEIHR model and Malaysian COVID-19 data for model fitting, short-term forecasting, and comparison with data-driven baseline methods.<br><br>结合物理信息神经网络、SEIHR 模型与马来西亚 COVID-19 数据，开展模型拟合、短期预测及与数据驱动基准方法的比较。",
-
-    role: "Research Direction / 研究方向",
-
-    date: "2025–2026",
-  },
 ];
 
 // ============================================================
@@ -302,7 +271,7 @@ export const projects = [
     org: "Media Influence Integrated PINNs–SEIHR / 媒体影响与 PINNs–SEIHR 建模",
 
     desc:
-      "Explores the integration of media influence into a PINN-based SEIHR epidemic model for disease transmission modelling and forecasting.<br><br>探索将媒体影响机制融入基于 PINNs 的 SEIHR 流行病模型，用于疾病传播建模与预测。",
+      "Explores the integration of media influence into a PINN-based SEIHR epidemic model for disease transmission modelling and forecasting. 探索将媒体影响机制融入基于 PINNs 的 SEIHR 流行病模型，用于疾病传播建模与预测。",
 
     role:
       "FSICG 2025 Research Collaboration, Universiti Malaya and the University of Adelaide / FSICG 2025 研究合作，马来亚大学与阿德莱德大学",
@@ -314,7 +283,7 @@ export const projects = [
     org: "Software Copyright Registrations (3) / 软件著作权（3 项）",
 
     desc:
-      "Disease Transmission Simulation and Analysis V1.0; Campus Infectious Disease Modelling V1.0; Public Opinion Governance Software V1.0. Registration numbers: 2021SR1383604, 2021SR1383603, and 2021SR1383602.<br><br>《疾病传播模拟与分析 V1.0》《校园传染病建模 V1.0》《舆情治理软件 V1.0》。登记号：2021SR1383604、2021SR1383603、2021SR1383602。",
+      "Disease Transmission Simulation and Analysis V1.0; Campus Infectious Disease Modelling V1.0; Public Opinion Governance Software V1.0. Registration numbers: 2021SR1383604, 2021SR1383603, and 2021SR1383602. 《疾病传播模拟与分析 V1.0》《校园传染病建模 V1.0》《舆情治理软件 V1.0》。登记号：2021SR1383604、2021SR1383603、2021SR1383602。",
 
     role: "Software Copyright Registrations / 软件著作权登记",
 
@@ -346,7 +315,7 @@ export const teaching = [
   {
     org: "Linear Algebra/ 线性代数",
 
-    date: "2026–Present",
+    date: "Aug 2026–Present",
   },
 ];
 
