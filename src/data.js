@@ -10,6 +10,9 @@
 // 3. Update src/site.config.js separately.
 
 import photo from "./assets/photo.jpg";
+import UM from "./assets/logos/UM.jpg";
+import YMU from "./assets/logos/YMU.png";
+import GXNU from "./assets/logos/GXNU.png";
 
 export const CV_URL = "Rui_Hu_CV_Oct2026.pdf";
 
@@ -94,6 +97,7 @@ export const education = [
     org: "Universiti Malaya / 马来亚大学",
     role: "Ph.D. in Applied Mathematics / 应用数学博士",
     date: "Oct 2022 – Jul 2026",
+    logo: UM,
     url: "https://www.um.edu.my/",
   },
   {
