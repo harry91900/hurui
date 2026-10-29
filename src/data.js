@@ -10,7 +10,7 @@
 // 3. Update src/site.config.js separately.
 
 import photo from "./assets/photo.jpg";
-import UM from "./assets/logos/UM.jpg";
+import UM from "./assets/logos/UM.png";
 import YMU from "./assets/logos/YMU.png";
 import GXNU from "./assets/logos/GXNU.png";
 
