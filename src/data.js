@@ -94,17 +94,21 @@ export const education = [
     org: "Universiti Malaya / 马来亚大学",
     role: "Ph.D. in Applied Mathematics / 应用数学博士",
     date: "Oct 2022 – Jul 2026",
+    logo: UM,
     url: "https://www.um.edu.my/",
   },
   {
     org: "Yunnan Minzu University / 云南民族大学",
     role: "M.Sc. in Computational Mathematics / 计算数学硕士",
+    logo: YMU,
     date: "Sep 2019 – Jun 2022",
+    url: "https://www.ymu.edu.cn/",
   },
   {
     org: "Guangxi Normal University / 广西师范大学",
     role: "B.Sc. in Mathematics and Applied Mathematics / 数学与应用数学学士",
     date: "Sep 2015 – Jun 2019",
+    logo: GXNU,
     url: "https://www.gxnu.edu.cn/",
   },
 ];
