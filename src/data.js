@@ -322,7 +322,7 @@ export const teaching = [
   {
     org: "Linear Algebra / 线性代数",
 
-    desc: "Textbook: Engineering Mathematics: Linear Algebra (7th Edition), compiled by the School of Mathematical Sciences, Tongji University. Course topics include determinants, matrices and matrix operations, elementary transformations and systems of linear equations, linear dependence and independence of vector groups, similar matrices and quadratic forms, linear spaces and linear transformations. | 教材：《工程数学 线性代数》（第七版），同济大学数学科学学院编。课程内容包括行列式、矩阵及其运算、矩阵初等变换与线性方程组、向量组的线性相关性、相似矩阵与二次型、线性空间与线性变换。",
+    desc: "Textbook: Engineering Mathematics: Linear Algebra (7th Edition), compiled by the School of Mathematical Sciences, Tongji University. Course topics include determinants, matrices and matrix operations, elementary transformations and systems of linear equations. | 教材：《工程数学 线性代数》（第七版），同济大学数学科学学院编。课程内容包括行列式、矩阵及其运算、矩阵初等变换与线性方程组。",
 
     role: "Lecturer, Yunnan Minzu University | 云南民族大学讲师 · 54 Class Periods (45 minutes per period; 40.5 hours in total) | 54学时（每学时45分钟，共40.5小时）",
 
