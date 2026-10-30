@@ -296,7 +296,9 @@ export const projects = [
 // Do not invent funding agencies or grant numbers.
 // ============================================================
 
-export const funding = [];
+export const funding = [
+  COMING SOON
+];
 
 // ============================================================
 // 11. AWARDS AND HONOURS
