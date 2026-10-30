@@ -142,7 +142,7 @@ export const publications = [
       "<strong>Rui Hu</strong>, Muhamad Hifzhudin Noor Aziz, Nur Anisah Mohamed, and Elayaraja Aruchunan",
 
     venue:
-      "Ain Shams Engineering Journal, Volume 127 (2025), pp. 1081–1095",
+      "Alexandria Engineering Journal, Volume 127 (2025), pp. 1081–1095",
 
     abstract:
       "English summary: Develops a fractional-order COVID-19 model incorporating media coverage and analyses Malaysian data to investigate the effects of media interventions on epidemic dynamics.<br><br>中文摘要：建立考虑媒体报道影响的分数阶 COVID-19 模型，并利用马来西亚疫情数据分析媒体干预对疾病传播动态的影响。",
