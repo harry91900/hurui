@@ -150,7 +150,7 @@ export const publications = [
     bibtex: `@article{hu2025media,
   title   = {Modeling and analysis of dynamical behavior in a fractional-order COVID-19 epidemic model with media coverage: A case study of Malaysia},
   author  = {Hu, Rui and Aziz, Muhamad Hifzhudin Noor and Mohamed, Nur Anisah and Aruchunan, Elayaraja},
-  journal = {Ain Shams Engineering Journal},
+  journal = {Alexandria Engineering Journal},
   volume  = {127},
   pages   = {1081--1095},
   year    = {2025},
